@@ -1,0 +1,80 @@
+/*
+ * Name: Angela Liu
+ * Date: May 22, 2020
+ * Section: CSE 154 AL
+ *
+ * CSS page linked to the index.html of my photos page. This page keeps a consistent style
+ * and feel across the page with spacing and colors.
+ */
+
+header img, #all-photos img {
+  width: 70%;
+}
+
+header, body, footer, #shoots img {
+  margin: auto auto;
+}
+
+header {
+  margin-top: 70px;
+  margin-bottom: 0px;
+}
+
+body, footer {
+  font-family: 'PT Sans', sans-serif;
+}
+
+body, footer, header, #all-photos, #shoots {
+  text-align: center;
+}
+
+h2, footer {
+  margin-top: 20px;
+  font-size: 17px;
+  letter-spacing: 2.5px;
+}
+
+#all-photos, #shoots {
+  margin-bottom: 100px;
+}
+
+#all-photos {
+  margin-top: 100px;
+  position: relative;
+}
+
+#all-photos-text {
+  font-weight: 900;
+  position: absolute;
+  top: 40%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+}
+
+#all-photos-banner:hover {
+  filter: brightness(60%);
+}
+
+.hover {
+  filter: brightness(80%);
+}
+
+#shoots {
+  margin-top: 30px;
+}
+
+#shoots-text {
+  width: 60%;
+  margin-right: 30%;
+  margin-left: 7%;
+}
+
+#shoots img {
+  width: 80%;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+footer {
+  margin-bottom: 170px;
+}
