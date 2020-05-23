@@ -1,0 +1,242 @@
+[
+  {
+    "title": "DOUG01",
+    "cap": "Douglas at the beach with a smol Addy behind him",
+    "date": "03-09-2020",
+    "src": "alki-doug-1.jpg",
+    "type": "landscape",
+    "shoot": "Alki Beach with Douglas"
+  },
+  {
+    "title": "DOUG02",
+    "cap": "Douglas at the beach",
+    "date": "03-09-2020",
+    "src": "alki-doug-2.jpg",
+    "type": "landscape",
+    "shoot": "Alki Beach with Douglas"
+  },
+  {
+    "title": "STAN01",
+    "cap": "An harbour at Stanley Park",
+    "date": "11-10-2019",
+    "src": "canada-1.jpg",
+    "type": "landscape",
+    "shoot": "canada-veterans-weekend"
+  },
+  {
+    "title": "STAN02",
+    "cap": "Simon and Tak slightly blurry in from of an harbour at Stanley Park",
+    "date": "11-10-2019",
+    "src": "canada-2.jpg",
+    "type": "portrait",
+    "shoot": "canada-veterans-weekend"
+  },
+  {
+    "title": "SIM01",
+    "cap": "Simon on some random street in Vancouver wow pretty lights",
+    "date": "11-10-2019",
+    "src": "canada-3.jpg",
+    "type": "portrait",
+    "shoot": "canada-veterans-weekend"
+  },
+  {
+    "title": "TAK01",
+    "cap": "Lonely Tak on some random street in Vancouver",
+    "date": "11-10-2019",
+    "src": "canada-4.jpg",
+    "type": "landscape",
+    "shoot": "canada-veterans-weekend"
+  },
+  {
+    "title": "PUP01",
+    "cap": "A cute puppy let loose in a parking lot",
+    "date": "09-13-2019",
+    "src": "dandyland-1.jpg",
+    "type": "portrait",
+    "shoot": "a-trip-to-dandyland"
+  },
+  {
+    "title": "DAND01",
+    "cap": "A beautiful, hypebeast model",
+    "date": "09-13-2019",
+    "src": "dandyland-2.jpg",
+    "type": "portrait",
+    "shoot": "a-trip-to-dandyland"
+  },
+  {
+    "title": "DAND02",
+    "cap": "DANDYLAND hats hats hats hats hats hats iNdiaNa joNeS",
+    "date": "09-13-2019",
+    "src": "dandyland-3.jpg",
+    "type": "landscape",
+    "shoot": "a-trip-to-dandyland"
+  },
+  {
+    "title": "DAND03",
+    "cap": "Some extortionate clothing pieces",
+    "date": "09-13-2019",
+    "src": "dandyland-4.jpg",
+    "type": "landscape",
+    "shoot": "a-trip-to-dandyland"
+  },
+  {
+    "title": "MANG01",
+    "cap": "Smol Mangie looking through extortionate clothing pieces",
+    "date": "09-13-2019",
+    "src": "dandyland-5.jpg",
+    "type": "portrait",
+    "shoot": "a-trip-to-dandyland"
+  },
+  {
+    "title": "ERIC01",
+    "cap": "Eric near the famous San Ramon fountain in grad gear because he doesn't get a graudation this year",
+    "date": "05-03-2020",
+    "src": "eric-grad-1.jpg",
+    "type": "portrait",
+    "shoot": "eric-grad"
+  },
+  {
+    "title": "ERIC02",
+    "cap": "Eric throwing his graduation cap",
+    "date": "05-03-2020",
+    "src": "eric-grad-2.jpg",
+    "type": "portrait",
+    "shoot": "eric-grad"
+  },
+  {
+    "title": "ERIC03",
+    "cap": "Eric walking on water!",
+    "date": "05-03-2020",
+    "src": "eric-grad-3.jpg",
+    "type": "portrait",
+    "shoot": "eric-grad"
+  },
+  {
+    "title": "ERIC04",
+    "cap": "Eric about to be flattened by a car",
+    "date": "05-03-2020",
+    "src": "eric-grad-6.jpg",
+    "type": "portrait",
+    "shoot": "eric-grad"
+  },
+  {
+    "title": "DORO01",
+    "cap": "heppi doro",
+    "date": "05-03-2020",
+    "src": "eric-grad-4.jpg",
+    "type": "portrait",
+    "shoot": "eric-grad"
+  },
+  {
+    "title": "DORO02",
+    "cap": "heppi doro pt.2",
+    "date": "05-03-2020",
+    "src": "eric-grad-5.jpg",
+    "type": "portrait",
+    "shoot": "eric-grad"
+  },
+  {
+    "title": "DORO01",
+    "cap": "Dorothy in an alleyway by Pike's Place",
+    "date": "12-17-2019",
+    "src": "seattle-with-california-friends-1.png",
+    "type": "portrait",
+    "shoot": "seattle-with-california-friends"
+  },
+  {
+    "title": "KRIS01",
+    "cap": "Kristen in the heart of the Seattle public library",
+    "date": "12-17-2019",
+    "src": "seattle-with-california-friends-2.png",
+    "type": "portrait",
+    "shoot": "seattle-with-california-friends"
+  },
+  {
+    "title": "TAK01",
+    "cap": "Tak in the heart of the Seattle public library",
+    "date": "12-17-2019",
+    "src": "seattle-with-california-friends-3.png",
+    "type": "portrait",
+    "shoot": "seattle-with-california-friends"
+  },
+  {
+    "title": "SF01",
+    "cap": "Some hill in SF? I forget which one",
+    "date": "09-13-2019",
+    "src": "sf-night-lights-1.jpg",
+    "type": "landscape",
+    "shoot": "Late Night Adventures to SF :')"
+  },
+  {
+    "title": "SF02",
+    "cap": "Some beach in SF? I forget which one",
+    "date": "09-13-2019",
+    "src": "sf-night-lights-2.jpg",
+    "type": "landscape",
+    "shoot": "Late Night Adventures to SF :')"
+  },
+  {
+    "title": "SF03",
+    "cap": "Some hill in SF? I forget which one",
+    "date": "09-13-2019",
+    "src": "sf-night-lights-3.jpg",
+    "type": "landscape",
+    "shoot": "Late Night Adventures to SF :')"
+  },
+  {
+    "title": "SF04",
+    "cap": "Some hill in SF? I forget which one",
+    "date": "09-13-2019",
+    "src": "sf-night-lights-4.jpg",
+    "type": "landscape",
+    "shoot": "Late Night Adventures to SF :')"
+  },
+  {
+    "title": "SF01",
+    "cap": "Ocean Beach!",
+    "date": "07-22-2019",
+    "src": "sf-summer-2019-1.jpg",
+    "type": "landscape",
+    "shoot": "summer-in-sf"
+  },
+  {
+    "title": "SF02",
+    "cap": "Peeking through a bush at Golden Gate Park",
+    "date": "07-22-2019",
+    "src": "sf-summer-2019-2.jpg",
+    "type": "landscape",
+    "shoot": "summer-in-sf"
+  },
+  {
+    "title": "DORO01",
+    "cap": "Doro is the Palace of Fine Arts",
+    "date": "07-22-2019",
+    "src": "sf-summer-2019-3.jpg",
+    "type": "portrait",
+    "shoot": "summer-in-sf"
+  },
+  {
+    "title": "SF03",
+    "cap": "Inside an air hangar by the Palace of Fine Arts",
+    "date": "07-22-2019",
+    "src": "sf-summer-2019-4.jpg",
+    "type": "landscape",
+    "shoot": "summer-in-sf"
+  },
+  {
+    "title": "SF04",
+    "cap": "An aethstic street sign",
+    "date": "07-22-2019",
+    "src": "sf-summer-2019-5.jpg",
+    "type": "landscape",
+    "shoot": "summer-in-sf"
+  },
+  {
+    "title": "SF05",
+    "cap": "Kimi No Nawa lookin' street",
+    "date": "07-22-2019",
+    "src": "sf-summer-2019-6.jpg",
+    "type": "landscape",
+    "shoot": "summer-in-sf"
+  }
+]
